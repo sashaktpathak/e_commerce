@@ -4148,5 +4148,39 @@ RESPONSIVE  RESPONSIVE  RESPONSIVE  RESPONSIVE   RESPONSIVE
 }
 .block3
 {
-	margin-right: 10%;
+	margin-right: 28%;
+	margin-top: 10%;
+}
+.block3-classic
+{
+	margin-bottom: 10%; 
+}
+.block3-classic-img
+{
+	border-radius: 50%;
+
+}
+#block3-class-text
+{
+	font-weight: 600;
+	font-size: 0.6em;
+}
+.p-b-7
+{
+	text-align: center;
+}
+.p-b-7 > a
+{
+	font-weight: 800;
+}
+.R-services
+{
+	font-weight: 600;
+	color: #ffc852;
+}
+.P-services
+{
+	font-weight: 600;
+	color: #ffc852;	
+	margin-top: 5%;
 }
